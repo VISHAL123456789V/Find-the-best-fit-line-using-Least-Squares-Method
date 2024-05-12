@@ -43,8 +43,6 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
-
 ![WhatsApp Image 2024-02-26 at 23 06 52_c256db44](https://github.com/Suriya-Pravin-M/Find-the-best-fit-line-using-Least-Squares-Method/assets/150010919/df6c74ac-62dd-4268-9ebe-ace6e5aa6be0)
 
 ## Result:
